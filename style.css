@@ -1,0 +1,38 @@
+.header{
+    background-color: rgb(2, 2, 50);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.main-div{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    gap: 10px;
+}
+.nav{
+    width: 20%;
+    height: 100%;
+    background-color: navy;
+}
+.child{
+    width: 60%;
+    height: 100%;
+    background-color: tomato;
+}
+.content{
+    width: 20%;
+    height: 100%;
+    background-color: navy;
+}
+.footer{
+    padding: 20px;
+    background-color: rgb(2, 2, 50);
+    border-radius: 5px;
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+}
+       
